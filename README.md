@@ -1,8 +1,9 @@
-<hr >
+##
 <h1 align="center">Hello, I'm Leonora 👋✨</h1>
+
 <h4 align="center">Development student 📚💻</h4>
 
-<div  align="center" style="display:flex; align-items:center; justify-content:center;">
+<div  align="center" >
 
 <img align="center" style="margin-bottom:12px" alt="Java" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 
@@ -19,16 +20,17 @@
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoriccioppo&layout=compact&theme=dracula"/></a>
 </div>
 <br>
-<hr>
+
 <h6 align="center">Contacts:</h6>
-<div style="display:flex; align-items:center; gap:10px; justify-content:center;">
+<p align="center">
+<a href = "mailto:aliane.eamaral@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/>
+</a>
+<a href="https://www.linkedin.com/in/leonorariccioppo/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
+</a> 
+</p>
 
-
-<a href = "mailto:leonorariccioppo@gmail.com"><img align="center" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
-<a href="https://www.linkedin.com/in/leonorariccioppo/" target="_blank"><img align="center" alt="Linkedin" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
-</div>
 <!--
 **leoriccioppo/leoriccioppo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
