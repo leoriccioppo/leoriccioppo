@@ -15,10 +15,10 @@
 </div>
 <br>
 
-<div align="center">
+<!--<div align="center">
 <a href="[https://github.com/leoriccioppo](https://github.com/leoriccioppo)"> 
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoriccioppo&layout=compact&theme=dracula"/></a>
-</div>
+</div>-->
 <h6 align="center">Contacts:</h6>
 <p align="center">
 <a href = "mailto:leonorariccioppo@gmail.com">
